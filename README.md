@@ -53,19 +53,25 @@ Explore the workbook online and navigate through its available worksheets, summa
 
 </div>
 
-## 📸 Dashboard Preview
+## 📊 Dashboard Preview
 
 <div align="center">
 
-<!-- Add your actual dashboard screenshots here -->
+<img src="dashboard-preview.png" width="95%" alt="Business Operations and Delivery Dashboard — Overview"/>
 
-<img src="screenshots/dashboard-preview.png" width="95%" alt="Business Operations and Delivery Dashboard"/>
+<br/>
 
-<sub>Business Operations & Delivery Dashboard — Excel Preview</sub>
+<sub>Business Operations & Delivery Dashboard — Performance Overview</sub>
+
+<br/><br/>
+
+<img src="dashboard-preview1.png" width="95%" alt="Business Operations and Delivery Dashboard — Detailed Analysis"/>
+
+<br/>
+
+<sub>Business Operations & Delivery Dashboard — Detailed Analysis</sub>
 
 </div>
-
-> Replace the image above with your actual dashboard screenshot after uploading it to the `screenshots` folder.
 
 ## ✨ Key Features
 
